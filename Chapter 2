@@ -1,0 +1,1 @@
+This chapter presents insertion sort and merge sort, explains how to describe algorithms using pseudocode, and introduces loop invariants. It also covers asymptotic growth and shows how algorithm efficiency changes with input size.
