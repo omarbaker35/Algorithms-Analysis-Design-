@@ -1,0 +1,1 @@
+This chapter explains divide-and-conquer algorithms like merge sort and matrix multiplication. It introduces recurrence relations, substitution, recursion trees, and the master theorem for mathematically solving runtime recurrences.
