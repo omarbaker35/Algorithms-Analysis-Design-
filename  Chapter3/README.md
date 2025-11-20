@@ -1,0 +1,1 @@
+This chapter formally defines asymptotic notation such as O, Ω, and Θ. It explains how to analyze algorithm growth, compare functions, and use mathematical tools to express running-time bounds clearly and rigorously.
